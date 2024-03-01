@@ -1,2 +1,2 @@
-# powershell_basic_scripts
+# PowerShell Basic Scripts
 Basic Scripts in PowerShell
